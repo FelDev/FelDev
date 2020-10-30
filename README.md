@@ -1,4 +1,7 @@
-Pssst!
+# Currently looking for a job!
 
-##### I'm starting a newsletter about my Indie Hacking journey.
-Simple and fun concept: I start with no job and 10 000$, hoping it will be enough to support myself until I start generating decent income. [Follow along?](https://emailoctopus.com/lists/04332982-e1c1-11ea-a3d0-06b4694bee2a/forms/subscribe)
+Ideal job includes:
+- The possibility to work remotely even when things calm down.
+- Passionate colleagues with a love for their craft
+- Technologies from this centuries (no JQuery on top of ColdFusion kinda thing)
+
