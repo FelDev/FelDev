@@ -1,3 +1,3 @@
-# Employed web developer and wannabe indie hacker
+# Freelance web developer and wannabe indie hacker
 
 Too busy to make a cool REAME.md...
